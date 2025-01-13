@@ -21,7 +21,7 @@ Start RTSP stream.
 
 ```bash
 
-cd ~/qt-android-gstreamer-app
+cd ~/qt-android-gstreamer-app/rtsp_stream
 
 python3 stream.py
 ```
